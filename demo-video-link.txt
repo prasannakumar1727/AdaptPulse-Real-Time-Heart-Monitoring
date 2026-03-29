@@ -1,0 +1,16 @@
+AdaptPulse — Demo Video
+========================
+
+Watch the live demo here:
+https://your-video-link.com
+
+(Replace the link above with your actual demo video URL before submitting)
+
+─────────────────────────────────────
+What the demo covers:
+─────────────────────────────────────
+  ✅ Live pulse sensor data capture
+  ✅ Real-time noisy vs filtered signal comparison
+  ✅ React dashboard visualization
+  ✅ Emergency alert trigger (tachycardia / bradycardia)
+  ✅ System architecture walkthrough
